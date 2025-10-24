@@ -6,9 +6,9 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-linux-yellow)
 
-<p align="center">
-  ![Header Screenshot](./img/logo.png)
-</p>
+
+![Header Screenshot](./img/logo.png)
+
 
 <p align="center">
   <b>Advanced reconnaissance automation tool for security professionals</b>
