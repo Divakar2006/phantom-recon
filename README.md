@@ -1,13 +1,13 @@
 
-
-# P H A N T O M - R E C O N
+#
+![Header Screenshot](./img/logo.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-linux-yellow)
 
 
-![Header Screenshot](./img/logo.png)
+
 
 
 <p align="center">
@@ -158,13 +158,9 @@ The tool creates the following directory structure for each target:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divakar2006/phantom-recon/img/banner.png" alt="Phantom Recon Banner" width="800">
-</p>
+![Header Screenshot](./img/banner.png)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Divakar2006/phantom-recon/img/results.png" alt="Results Summary" width="800">
-</p>
+![Header Screenshot](./img/results.png)
 
 
 ## ⚠️ Disclaimer
