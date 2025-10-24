@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-linux-yellow)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/divu/phantom-recon/main/img/logo.png" alt="Phantom Recon Logo" width="200">
+  ![Header Screenshot](./img/logo.png)
 </p>
 
 <p align="center">
