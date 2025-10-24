@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-linux-yellow)
 
 <p align="center">
-  <img src="https://github.com/Divakar2006/phantom-recon/img/logo.png" alt="Phantom Recon Logo" width="200">
+  <img src="https://raw.githubusercontent.com/divu/phantom-recon/main/img/logo.png" alt="Phantom Recon Logo" width="200">
 </p>
 
 <p align="center">
