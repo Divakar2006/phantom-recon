@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Enhanced Recon Automation Tool with Cool UI
+# Enhanced Recon Automation Tool with Cool Features
 # Performs comprehensive reconnaissance on a target domain
 
 set -e

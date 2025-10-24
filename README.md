@@ -161,7 +161,7 @@ The tool creates the following directory structure for each target:
 ![Header Screenshot](./img/banner.png)
 
 ### results file
-![Header Screenshot](./img/results.png)
+![Header Screenshot](./img/result.png)
 
 
 ## ⚠️ Disclaimer
