@@ -35,4 +35,4 @@ git clone https://github.com/GerbenJavado/LinkFinder.git ~/tools/LinkFinder
 cd ~/tools/LinkFinder
 pip3 install -r requirements.txt
 
-echo "Setup complete! Please restart your terminal or run 'source ~/.bashrc' to update your PATH."
+echo "Setup complete!! Please restart your terminal or run 'source ~/.bashrc' to update your PATH."

@@ -381,7 +381,7 @@ show_summary() {
     echo -e "║  ${GREEN}████  █   █ █   ██ █       █    █    ███████ ██   ██   ║"
     echo -e "║                                                              ║"
     echo -e "║  ${CYAN}Cybersecurity Specialist & Tool Developer${NC}${PINK}              ║"
-    echo -e "║  ${ORANGE}github.com/divu${NC}${PINK}                                      ║"
+    echo -e "║  ${ORANGE}github.com/Divakar2006${NC}${PINK}                                      ║"
     echo -e "╚══════════════════════════════════════════════════════════════╝${NC}"
     
     echo -e "\n${YELLOW}Thank you for using ${BOLD}Reconnaissance Automator${NC}${YELLOW}!${NC}"
