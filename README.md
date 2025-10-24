@@ -157,9 +157,10 @@ The tool creates the following directory structure for each target:
 - `xnLinkFinder` - Advanced endpoint discovery
 
 ## 📸 Screenshots
-
+### banner
 ![Header Screenshot](./img/banner.png)
 
+### results file
 ![Header Screenshot](./img/results.png)
 
 
@@ -168,10 +169,6 @@ The tool creates the following directory structure for each target:
 This tool is for educational purposes and authorized security testing only. Users are responsible for obtaining proper authorization before testing any target. The creators are not responsible for any misuse or illegal activity.
 
 ## 👨‍💻 Created by Divu
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/divu/phantom-recon/main/assets/creator.png" alt="Created by Divu" width="300">
-</p>
 
 <p align="center">
   <b>Cybersecurity Specialist & Tool Developer</b>
